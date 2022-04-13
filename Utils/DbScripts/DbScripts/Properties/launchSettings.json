@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DbScripts": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Documents\\projects\\xenergy\\OnlineApplicationIdentity_20220409.sql\" \"C:\\Documents\\projects\\xenergy\\OnlineApplicationMVC_2\\Database\\OnlineApplicationIdentity\""
+    }
+  }
+}
